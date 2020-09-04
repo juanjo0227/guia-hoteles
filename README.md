@@ -1,2 +1,2 @@
 # guia-hoteles
-Proyecto para el curso de Bootstrap 4
+Inicio del proyecto de guia-hoteles
